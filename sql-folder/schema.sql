@@ -1,2 +1,2 @@
 create table tablel;
-create table table2;
+create table table3;
